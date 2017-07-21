@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Value": {
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=kkuzminappo365a495;AccountKey=6dR4qSTueIEgfDuvFWo4Hu+IVeAl1hWKBQqB2RngKVyT27Wmhq2Z5e4HQYYa3Lg789fug3GF4zHQ+sB1uijp/g==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=kkuzminappo365a495;AccountKey=6dR4qSTueIEgfDuvFWo4Hu+IVeAl1hWKBQqB2RngKVyT27Wmhq2Z5e4HQYYa3Lg789fug3GF4zHQ+sB1uijp/g==",
+    "WEBSITE_CONTENTSHARE": "kkuzmin-app-o365a495",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=kkuzminappo365a495;AccountKey=6dR4qSTueIEgfDuvFWo4Hu+IVeAl1hWKBQqB2RngKVyT27Wmhq2Z5e4HQYYa3Lg789fug3GF4zHQ+sB1uijp/g==",
+    "WEBSITE_SITE_NAME": "kkuzmin-app-o365"
+  }
+}
