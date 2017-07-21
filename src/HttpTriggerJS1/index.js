@@ -1,6 +1,7 @@
 module.exports = function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
     context.log(req.body);
+    context.log('Hello');
 
     if (req.query.validationCode || (req.body && req.body.validationCode)) {
         context.res = {
