@@ -3,7 +3,6 @@
     "version": "0.0.1",
     "description": "Test collector",
     "repository": {},
-    "private": true,
     "dependencies": {
         "protobuf": "*"
     }
